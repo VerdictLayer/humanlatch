@@ -2,3 +2,8 @@
 .codex
 .claude
 .env
+backend/
+frontend/
+sdk/
+docker-compose.yml
+STATUS.md
