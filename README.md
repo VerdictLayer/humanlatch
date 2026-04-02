@@ -4,11 +4,12 @@ HumanLatch is a control plane for AI actions. Agents propose actions, policy dec
 
 HumanLatch can be used anywhere AI needs controlled execution, including cloud operations, chatbots, robotics, and manufacturing systems.
 
-## Repositories
+## Access Paths
 
-- `humanlatch-web`: public website and product docs
-- `humanlatch-ce`: public self-hosted community edition
-- `humanlatch-app`: hosted cloud product by VerdictLayer
+- Product site: `https://humanlatch.verdictlayer.com`
+- Developer docs: `https://humanlatch.verdictlayer.com/developers`
+- Community edition: `https://github.com/VerdictLayer/humanlatch-ce`
+- Hosted cloud product: available from VerdictLayer
 
 ## How It Works
 
@@ -23,11 +24,5 @@ HumanLatch can be used anywhere AI needs controlled execution, including cloud o
 - Support or finance agents issuing refunds, credits, or other sensitive actions
 - Robotics systems requesting movement, unlock, or override operations
 - Manufacturing workflows requesting state changes or safety-related actions
-
-## Start Here
-
-- Product site: `https://humanlatch.verdictlayer.com`
-- Developer docs: `https://humanlatch.verdictlayer.com/developers`
-- Community edition: `https://github.com/VerdictLayer/humanlatch-ce`
 
 VerdictLayer builds the hosted HumanLatch cloud product while also offering a self-hosted community edition for teams that want to run it themselves.
